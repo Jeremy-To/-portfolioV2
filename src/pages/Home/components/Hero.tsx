@@ -12,7 +12,6 @@ import {
 import { isValidMotionProp, motion } from "framer-motion";
 import { IconType } from "react-icons";
 import { me } from "../../../me";
-import Typed from 'react-typed';
 
 
 export const Hero = () => {
@@ -63,16 +62,7 @@ export const Hero = () => {
 
           <h1>
           Hi! I'm {me.name}
-          {' '}
           <br />
-          {' '}
-          <Typed
-            strings={['Front-end', 'React', 'Typescript', 'Javascript']}
-            typeSpeed={50}
-            backSpeed={60}
-            loop
-            className="typed"
-          />
           <br />
           Developer
         </h1>
