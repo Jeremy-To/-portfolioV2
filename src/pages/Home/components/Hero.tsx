@@ -61,7 +61,9 @@ export const Hero = () => {
         > 
 
           <h1>
-          Hi! I'm {me.name} Developer
+          Hi! I'm {me.name} 
+          <br />
+          Front-end Developer
         </h1>
         </Heading>
         <Text fontSize={"2xl"}>{me.subtitle}</Text>
