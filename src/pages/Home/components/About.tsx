@@ -68,6 +68,7 @@ export const About = () => {
         >
           <GridItem>
             <Heading
+            fontFamily={"Alfa Slab One"}
               fontWeight={"normal"}
               as={"h1"}
               size={{
