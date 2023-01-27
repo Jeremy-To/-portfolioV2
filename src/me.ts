@@ -39,21 +39,21 @@ export const me = {
 		{
 			name: 'E-commerce',
 			description:
-				'A ecommerce app to buy clothes.',
+				'A ecommerce app to buy books.',
 			contribution:
 				'I used Typescript and React for the front-end and Firebase for the back-en in order to build this app.',
-			technologies: ['React.js', 'SCcs', 'Css', 'Firebase', 'Typescript'],
+			technologies: ['React.js', 'Bootstrap', 'Css', 'Firebase', 'Typescript'],
 			links: [
 				{
 					name: 'E-commerce',
-					uri: 'https://jeremyto-ecommerce.netlify.app',
+					uri: 'https://shop-jeremy-to.vercel.app',
 				},
 				{
 					name: 'Github',
 					uri: 'https://github.com/Jeremy-To/shop',
 				},
 			],
-			image: '/assets/Ecommerce.png',
+			image: '/assets/BookStore.png',
 		},
 		{
 			name: 'ChatApp',
