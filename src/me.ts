@@ -42,15 +42,15 @@ export const me = {
 				'A ecommerce app to buy books.',
 			contribution:
 				'I used Typescript and React for the front-end and Firebase for the back-en in order to build this app.',
-			technologies: ['React.js', 'Bootstrap', 'Css', 'Firebase', 'Typescript'],
+			technologies: ['React.js', 'Firebase'],
 			links: [
 				{
 					name: 'E-commerce',
-					uri: 'https://shop-jeremy-to.vercel.app',
+					uri: 'https://latest-shop-app.vercel.app',
 				},
 				{
 					name: 'Github',
-					uri: 'https://github.com/Jeremy-To/shop',
+					uri: 'https://github.com/Jeremy-To/LATEST-SHOP-APP',
 				},
 			],
 			image: '/assets/BookStore.png',
@@ -60,7 +60,7 @@ export const me = {
 			description: 'A ChatApp that bring people together',
 			contribution:
 				'Built it entirely with React for the front-end and firebase for the back-end ',
-			technologies: ['Javascript', 'Firebase', 'React', 'Css'],
+			technologies: ['Firebase', 'React'],
 			links: [
 				{
 					name: 'ChatApp',
@@ -78,7 +78,7 @@ export const me = {
 			description: 'A website to display my projects and resume',
 			contribution:
 				'I built the entire website from scratch using React.js, TypeScript, and Chakra UI and deployed it on Netlify.',
-			technologies: ['React', 'Typescript', 'Chakra-UI', 'Netlify'],
+			technologies: ['React', 'Typescript', 'Chakra-UI', 'Vercel'],
 			links: [
 				{
 					name: 'Jeremy TO Website',
