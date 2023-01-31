@@ -1,11 +1,12 @@
 import { FaBook, FaGithub, FaLinkedin, FaNode, FaReact } from 'react-icons/fa';
 import {
-	SiC,
 	SiCss3,
 	SiHtml5,
 	SiJavascript,
-	SiPython,
 	SiTypescript,
+	SiRedux,
+	SiNextdotjs,
+	SiTailwindcss,
 } from 'react-icons/si';
 
 import { IMe } from './me.interface';
@@ -33,13 +34,19 @@ export const me = {
 			graduation: '2022',
 			awards: [''],
 		},
+		{
+			degree: 'Certificate of completion',
+			major: 'React',
+			school: 'Udemy (Academind by Maximilian Schwarzmueller)',
+			graduation: '2022',
+			awards: [''],
+		},
 	],
 
 	projects: [
 		{
 			name: 'E-commerce',
-			description:
-				'A ecommerce app to buy books.',
+			description: 'A ecommerce app to buy books.',
 			contribution:
 				'I used Typescript and React for the front-end and Firebase for the back-en in order to build this app.',
 			technologies: ['React.js', 'Firebase'],
@@ -111,12 +118,31 @@ export const me = {
 			],
 			image: '/assets/weatherapp.jpeg',
 		},
-
 	],
 	skills: [
 		{
 			name: 'Typescript',
 			icon: SiTypescript,
+		},
+		{
+			name: 'JavaScript',
+			icon: SiJavascript,
+		},
+		{
+			name: 'React',
+			icon: FaReact,
+		},
+		{
+			name: 'Redux',
+			icon: SiRedux,
+		},
+		{
+			name: 'NextJs',
+			icon: SiNextdotjs,
+		},
+		{
+			name: 'Tailwindcss',
+			icon: SiTailwindcss,
 		},
 		{
 			name: 'Html',
@@ -125,26 +151,6 @@ export const me = {
 		{
 			name: 'Css',
 			icon: SiCss3,
-		},
-		{
-			name: 'JavaScript',
-			icon: SiJavascript,
-		},
-		{
-			name: 'Python',
-			icon: SiPython,
-		},
-		{
-			name: 'C',
-			icon: SiC,
-		},
-		{
-			name: 'React',
-			icon: FaReact,
-		},
-		{
-			name: 'Node.js',
-			icon: FaNode,
 		},
 	],
 	social: [
@@ -169,7 +175,7 @@ export const me = {
 		{
 			name: 'My résumé',
 			icon: FaBook,
-			uri: '/assets/Jeremy_to_resume.pdf',
+			uri: '/assets/CV FR Jeremy TO.pdf',
 			hover: {
 				bg: 'blue.500',
 				color: 'white',
