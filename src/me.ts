@@ -48,7 +48,7 @@ export const me = {
 			name: 'E-commerce',
 			description: 'A ecommerce app to buy books.',
 			contribution:
-				'I used Typescript and React for the front-end and Firebase for the back-en in order to build this app.',
+				'I used React for the front-end and Firebase for the back-en in order to build this app.',
 			technologies: ['React.js', 'Firebase'],
 			links: [
 				{
@@ -104,7 +104,7 @@ export const me = {
 			description:
 				'A Weather app using an api to get weather based on the place of your choise',
 			contribution:
-				'I built this app using react for fetching geolocalisation and we©ather form it.',
+				'I built this app using react for fetching geolocalisation and weather form it.',
 			technologies: ['React.js', 'Javascript', 'Css', 'HTML'],
 			links: [
 				{
