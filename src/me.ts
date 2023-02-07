@@ -71,7 +71,7 @@ export const me = {
 			links: [
 				{
 					name: 'ChatApp',
-					uri: 'https://chatapp-jeremyto.netlify.app',
+					uri: 'https://the-chat-app-jeremy-to.vercel.app',
 				},
 				{
 					name: 'Github',
