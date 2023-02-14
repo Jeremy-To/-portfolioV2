@@ -22,8 +22,8 @@ export const me = {
 	education: [
 		{
 			degree: 'Certificate of completion',
-			major: 'Computer Science (CS50)',
-			school: 'University of Harvard x EDX',
+			major: 'React',
+			school: 'Udemy (Academind by Maximilian Schwarzmueller)',
 			graduation: '2022',
 			awards: [''],
 		},
@@ -36,8 +36,8 @@ export const me = {
 		},
 		{
 			degree: 'Certificate of completion',
-			major: 'React',
-			school: 'Udemy (Academind by Maximilian Schwarzmueller)',
+			major: 'Computer Science (CS50)',
+			school: 'University of Harvard x EDX',
 			graduation: '2022',
 			awards: [''],
 		},
