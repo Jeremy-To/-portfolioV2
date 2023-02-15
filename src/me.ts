@@ -63,19 +63,19 @@ export const me = {
 			image: '/assets/BookStore.png',
 		},
 		{
-			name: 'ChatApp',
-			description: 'A ChatApp that bring people together',
+			name: 'TalkRoom',
+			description: 'TalkRoom bring people together, create a room or join one',
 			contribution:
 				'Built it entirely with React for the front-end and firebase for the back-end ',
 			technologies: ['Firebase', 'React'],
 			links: [
 				{
-					name: 'ChatApp',
+					name: 'TalkRoom',
 					uri: 'https://the-chat-app-jeremy-to.vercel.app',
 				},
 				{
 					name: 'Github',
-					uri: 'https://github.com/Jeremy-To/chatapp',
+					uri: 'https://github.com/Jeremy-To/TalkRoom',
 				},
 			],
 			image: '/assets/ChatApp.png',
