@@ -95,7 +95,7 @@ export const me = {
 					uri: 'https://github.com/Jeremy-To/-portfolioV2',
 				},
 			],
-			image: '/assets/myWebsite.jpeg',
+			image: '/assets/myWebsite.png',
 		},
 
 		{
@@ -115,7 +115,7 @@ export const me = {
 					uri: 'https://github.com/Jeremy-To/weatherapp',
 				},
 			],
-			image: '/assets/weatherapp.jpeg',
+			image: '/assets/weatherapp.png',
 		},
 	],
 	skills: [
