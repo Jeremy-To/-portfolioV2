@@ -1,11 +1,10 @@
-import { FaBook, FaGithub, FaLinkedin, FaNode, FaReact } from 'react-icons/fa';
+import { FaBook, FaGithub, FaLinkedin, FaReact } from 'react-icons/fa';
 import {
 	SiCss3,
 	SiHtml5,
 	SiJavascript,
 	SiTypescript,
 	SiRedux,
-	SiNextdotjs,
 	SiTailwindcss,
 } from 'react-icons/si';
 
@@ -135,10 +134,6 @@ export const me = {
 		{
 			name: 'Redux',
 			icon: SiRedux,
-		},
-		{
-			name: 'NextJs',
-			icon: SiNextdotjs,
 		},
 		{
 			name: 'Tailwindcss',
