@@ -93,7 +93,7 @@ export const me = {
 				},
 				{
 					name: 'Github',
-					uri: 'https://github.com/Jeremy-To/portfolioReact',
+					uri: 'https://github.com/Jeremy-To/-portfolioV2',
 				},
 			],
 			image: '/assets/myWebsite.jpeg',
