@@ -15,7 +15,7 @@ export const me = {
 	subtitle: 'Front-End Developer',
 	tagline: '',
 	about:
-		'Junior Front-End Developer building website. I love making fun projects on the side. Checkout some of my recent projects below!',
+		'Front-End Developer building website. I love making fun projects on the side. Checkout some of my recent projects below!',
 	location: 'Paris, France',
 	image: '/assets/world.jpeg',
 	education: [
@@ -47,8 +47,14 @@ export const me = {
 			name: 'E-commerce',
 			description: 'A ecommerce app to buy books.',
 			contribution:
-				'I used React for the front-end and Firebase for the back-en in order to build this app.',
-			technologies: ['React.js', 'Firebase'],
+				'I used React for the front-end and Firebase for the database in order to build this app.',
+			technologies: [
+				'React.js',
+				'Firebase',
+				'Typescript',
+				'Tailwindcss',
+				'Redux',
+			],
 			links: [
 				{
 					name: 'E-commerce',
@@ -65,8 +71,14 @@ export const me = {
 			name: 'TalkRoom',
 			description: 'TalkRoom bring people together, create a room or join one',
 			contribution:
-				'Built it entirely with React for the front-end and firebase for the back-end ',
-			technologies: ['Firebase', 'React'],
+				'Built it entirely with React for the front-end and firebase for the database ',
+			technologies: [
+				'React.js',
+				'Firebase',
+				'Typescript',
+				'Tailwindcss',
+				'Redux',
+			],
 			links: [
 				{
 					name: 'TalkRoom',
