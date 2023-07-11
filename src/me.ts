@@ -12,7 +12,7 @@ import { IMe } from './me.interface';
 
 export const me = {
 	name: 'Jérémy TO',
-	subtitle: 'Front-End Developer',
+	subtitle: 'Cyber Sécurity Developer',
 	tagline: '',
 	about:
 		'Front-End Developer building website. I love making fun projects on the side. Checkout some of my recent projects below!',
@@ -20,17 +20,17 @@ export const me = {
 	image: '/assets/world.jpeg',
 	education: [
 		{
-			degree: 'Certificate of completion',
-			major: 'React',
-			school: 'Udemy (Academind by Maximilian Schwarzmueller)',
-			graduation: '2022',
+			degree: 'Master',
+			major: 'Data, Systems and Network Security',
+			school: '2600 School',
+			graduation: '2026',
 			awards: [''],
 		},
 		{
-			degree: 'Certificate of completion',
-			major: 'Front-end Development',
-			school: 'Codecademy',
-			graduation: '2022',
+			degree: 'Bachelor',
+			major: 'Web Development',
+			school: 'OpenClassRooms',
+			graduation: '2023',
 			awards: [''],
 		},
 		{
@@ -173,7 +173,7 @@ export const me = {
 		{
 			name: 'LinkedIn',
 			icon: FaLinkedin,
-			uri: 'https://www.linkedin.com/in/jérémy-to-b13227253/',
+			uri: 'https://www.linkedin.com/in/jérémy-to/',
 			hover: {
 				bg: 'blue.500',
 				color: 'white',
