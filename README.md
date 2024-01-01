@@ -1,5 +1,5 @@
 # My portfolio
-A website to showcase my projects and my love for building well-taught code. 
+A website to showcase my projects and my love for building website. 
 Feel free to take a look at my code or see it live at [JeremyTO.com](https://jeremyto.com).
 
 ### Features : 
